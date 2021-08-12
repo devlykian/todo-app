@@ -1,0 +1,6 @@
+.list-group-item-completed {
+  text-decoration: line-through;
+}
+.btn-primary {
+  background-color: #337ab7 !important;
+}
