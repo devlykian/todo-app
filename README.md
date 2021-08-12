@@ -20,7 +20,7 @@ Runs the mock datas of api on [http://localhost:8080](http://localhost:8080) to 
 
 ## Frontend Folder
 
-`cd api`
+### `cd frontend`
 
 ### `npm install`
 
